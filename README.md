@@ -1,5 +1,5 @@
 <!-- ![](GitHubREADME.png) -->
-<img src="GitHubREADME.png">
+<img src="https://github.com/dunnapey/dunnapey/blob/master/GitHubREADME.png">
 
 <!--
 # Seeking Internship and entry-level softare development opportunities! 👨‍💻
