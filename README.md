@@ -1,4 +1,5 @@
-![](GitHubREADME.png)
+<!-- ![](GitHubREADME.png) -->
+<img src="GitHubREADME.png">
 
 <!--
 # Seeking Internship and entry-level softare development opportunities! 👨‍💻
