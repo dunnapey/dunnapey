@@ -1,4 +1,4 @@
-<img src="https://github.com/dunnapey/dunnapey/blob/master/GitHubREADME.png">
+<img src="https://github.com/dunnapey/dunnapey/blob/master/GitHubReadMe.gif">
 
 ## Experience with:
 - Java
